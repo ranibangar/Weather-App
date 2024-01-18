@@ -80,7 +80,6 @@ body {
 .not-found {
   visibility: hidden;
 }
-
 .weather-box.active,
 .weather-details.active,
 .not-found.active {
